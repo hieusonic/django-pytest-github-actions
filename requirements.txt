@@ -1,3 +1,4 @@
-django
+Django>=3.2
 pytest
 pytest-django
+flake8
